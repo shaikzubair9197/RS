@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Sensitive credentials
+credentials.json
+token.json
+
+# Streamlit and other app-generated files
+output.json
+*.log
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Optional: ignore daily summary JSON files
+daily_summary_*.json
