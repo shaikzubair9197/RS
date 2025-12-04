@@ -1,0 +1,13 @@
+{
+    "date": "2025-12-04",
+    "total_emails": 11,
+    "escalated_cases": 0,
+    "intent_breakdown": {
+        "Complaint": 2,
+        "Cancellation": 2,
+        "Payment Issue": 2,
+        "New Policy Inquiry": 2,
+        "Claim Status": 2,
+        "NOT_INSURANCE_EMAIL": 1
+    }
+}

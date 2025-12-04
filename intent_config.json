@@ -1,0 +1,46 @@
+{
+  "Policy Document Request": [
+    "policy copy",
+    "policy document",
+    "policy paper",
+    "resend policy",
+    "send my policy",
+    "soft copy of policy"
+  ],
+  "Claim Status": [
+    "claim status",
+    "claim update",
+    "claim submitted",
+    "claim processing",
+    "claim approval"
+  ],
+  "New Policy Inquiry": [
+    "new policy",
+    "buy insurance",
+    "purchase insurance",
+    "health insurance plan",
+    "new insurance"
+  ],
+  "Payment Issue": [
+    "payment failed",
+    "amount deducted",
+    "premium deducted",
+    "transaction failed",
+    "payment issue"
+  ],
+  "Cancellation": [
+    "cancel policy",
+    "cancellation",
+    "close policy",
+    "stop insurance",
+    "discontinue policy"
+  ],
+  "Complaint": [
+    "complaint",
+    "bad service",
+    "not happy",
+    "frustrated",
+    "very disappointed",
+    "poor service"
+  ]
+}
